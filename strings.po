@@ -1766,7 +1766,7 @@ msgstr "Kopan <style=\"solid\">Pislik Kir</style>'i <style=\"solid\">Gübre</sty
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.NAME"
 msgid "Compost"
-msgstr "Compost"
+msgstr "Organik Gübre"
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC"
